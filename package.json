@@ -1,0 +1,20 @@
+{
+  "name": "vue-i18n-extractor",
+  "version": "1.0.0",
+  "description": "A tool for extracting Chinese text and attributes from Vue.js templates",
+  "main": "index.js",
+  "bin": {
+    "vie": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.53.0",
+    "glob": "^10.3.10",
+    "minimist": "^1.2.8",
+  },
+  "devDependencies": {}
+}
